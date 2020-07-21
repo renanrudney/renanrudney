@@ -1,4 +1,3 @@
-### Hi there 👋
 # Renan Rudney
 
 Full Stack Developer [@produttivoapp](https://www.produttivo.com.br)
