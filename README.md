@@ -10,8 +10,8 @@ Full Stack Developer [@produttivoapp](https://www.produttivo.com.br)
 
 My name is Renan Rudney and i'm enthusiast of Ruby-related, JavaScript frameworks and technologies.
 - 🔭 I’m currently working on [@produttivoapp](https://www.produttivo.com.br) with Ruby-related technologies.
+- 🌱 I’m currently developing personal projects with Node, React, React native technologies.
 - 📫 How to reach me: click on any of the badges above and call me to chat 💬
-
 
 <!--
 **renanrudney/renanrudney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
