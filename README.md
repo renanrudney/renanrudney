@@ -6,16 +6,17 @@ Full Stack Developer @ [Produttivo](https://www.produttivo.com.br)
 [![Gmail Badge](https://img.shields.io/badge/-renanrudney@gmail.com-B23121?style=flat-square&logo=Gmail&logoColor=EEEEEE&link=mailto:renanrudney@gmail.com)](mailto:renanrudney@gmail.com)
 
 ![Ruby Badge](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![React Badge](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=white)
 ![TS Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 ## Hello, World! 😸
 
 My name is Renan Rudney and i'm enthusiast of Ruby-related technologies and JavaScript frameworks.
-- 🔭 I’m currently working on [@produttivoapp](https://www.produttivo.com.br) with Ruby-related technologies;
-- 🌱 I’m currently develop personal projects with Ruby, Hotwire and StimulusJS technologies;
+- 🔭 I’m currently working on [@produttivoapp](https://www.produttivo.com.br) with Ruby-related technologies and ReactJS;
+- 🌱 I’m currently develop personal projects with Ruby on Rails, Hotwire and ReactJS;
 - 🌱 TDD, DDD / Clean Architecture, SOLID;
-- ⚡ Fun fact: I'm Latin America Pokemón TCG Player;
+- ⚡ Fun fact: I'm a Latin America Pokemón TCG Player;
 - 📫 How to reach me: click on any of the badges above and call me to chat 💬
 
 <!--
